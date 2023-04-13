@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>
+            <h1>Aprendiendo a utilizar imágenes</h1>
+            <img src="https://as.com/esports/imagenes/2016/09/22/counter_strike/1474501165_196493_1474566409_noticia_normal.jpg" alt="logo CSGO" width="300" height="300" />
+        </tittle>
+    </head>
+    <body>
+        <div>
+        <tittle>
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+            <video width="300" height="300" autoplay controls loop muted>
+                <source src="fmk.mp4" type="video/mp4">
+            </video>
+        </tittle>
+        </div>
+        <tittle>
+            <h1>Aprendiendo a utilizar los audios</h1>
+            <audio controls autoplay loop>
+                <source src="duki.mp3" type="audio/mp3">
+            </audio>
+        </tittle>
+    </body>
+</html>
