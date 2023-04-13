@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Ejercicio 02/2 - Tablas en HTML</tittle>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de publicación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>Harry Potter y la piedra filosofal</td>
+                <td>J. K. Rowling</td>
+                <td>1997</td>
+                <td><a href="https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Book/dp/B017V4IMVQ/ref=sr_1_3?crid=3I7MJI7U9287H&keywords=harry+potter+books&qid=1681399908&sprefix=harry+potter+book%2Caps%2C241&sr=8-3">Link Amazon</a></td>
+            </tr>
+            <tr>
+                <td>Harry Potter y la cámara secreta</td>
+                <td>J. K. Rowling</td>
+                <td>1998</td>
+                <td><a href="https://www.amazon.com/Harry-Potter-Chamber-Secrets-Book/dp/B017V4IPPO/ref=sr_1_1?crid=FHC1PATLR2CQ&keywords=harry+potter+books+2&qid=1681400125&sprefix=harry+potter+books+%2Caps%2C230&sr=8-1">Link Amazon</a></td>
+            </tr>
+            <tr>
+                <td>Harry Potter y el prisionero de Azkaban</td>
+                <td>J. K. Rowling</td>
+                <td>1999</td>
+                <td><a href="https://www.amazon.com/Harry-Potter-Prisoner-Azkaban-Book/dp/B017V4NTFA/ref=sr_1_1?crid=AHXKW36IBO5N&keywords=harry+potter+books+3&qid=1681400202&s=audible&sprefix=harry+potter+books+%2Caudible%2C212&sr=1-1">Link Amazon</a></td>
+            </tr>
+        </table>
+    </body>
+</html>
